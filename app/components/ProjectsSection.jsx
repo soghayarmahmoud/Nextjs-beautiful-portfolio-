@@ -20,7 +20,7 @@ const projectData = [
         id:2,
         title:"Personal branding",
         description:"",
-        image:"/images/pro/pro10.PNG",
+        image:"/images/pro/pro3.PNG",
 
         insta: "https://www.instagram.com/p/DHBPKYkqn-V/",
         youtube: "https://www.youtube.com/@engalivfx/videos",
@@ -29,7 +29,7 @@ const projectData = [
         id:3,
         title:"Color grading",
         description:"",
-        image:"/images/pro/pro15.PNG",
+        image:"/images/pro/pro3.PNG",
 
         insta: "https://www.instagram.com/p/DJZnYozquwt/",
         youtube: "https://www.youtube.com/@engalivfx/videos",
