@@ -34,9 +34,10 @@ const HeroSection = ()=> {
                                     repeat={Infinity}
                                 />
                          </h1>
-                    <p className='text-gray-400   my-8 px-10 text-base  sm:text-lg lg:text-xl' >
-                        My name is "Ali Abdelhameed", I'm Studing Civil Engineering in HIET "High Institute of Engineering and Technology" in Sohag , and I have +2 years of experience in Video Editing and sound design. 
-                        And I can work with different styles like 3D, UI, Devin jatho and iman gagzi
+                    <p className='text-gray-400   my-8 px-10 text-base  sm:text-lg lg:text-xl' dir='rtl'>
+                        أنا علي عبدالحميد، مونتير محترف وصانع محتوى متخصص في Reels تعليمية وإبداعية. بخبرة عملية ومعرفة دقيقة بتفاصيل المونتاج،
+هدفي دائما اخلي العملاء يقدمه محتوى جديد — سريع، مفيد، ويشد الانتباه من أول ثانية.
+كمان بساعد المونتيرين الطموحين إنهم يطوّروا مستواهم ويتعلموا تريكات واحترافية في برامج المونتاج.
                         
                     </p>
                 <div className='px-14 '>
