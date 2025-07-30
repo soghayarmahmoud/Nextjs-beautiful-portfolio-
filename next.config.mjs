@@ -12,6 +12,11 @@ const nextConfig = {
     return config;
   },
 
+  output: 'export', // Required for `next export`
+  images: {
+    unoptimized: true, // If you're using <Image>, needed for static export
+  },
 };
 
+module.exports = nextConfig;
 export default nextConfig;
