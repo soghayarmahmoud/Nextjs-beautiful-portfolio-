@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build && next export",
+    "build": "next build",
     "start": "next start",
     "lint": "next lint",
     "postinstall": "npm rebuild lightningcss"
@@ -35,6 +35,6 @@
     "lightningcss": "^1.22.0"
   },
   "engines": {
-    "node": "20.x"
+    "node": "22.x"
   }
 }

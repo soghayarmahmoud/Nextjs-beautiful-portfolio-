@@ -24,14 +24,6 @@ return(
         style={{background: `url(${imgUrl})` 
         , backgroundSize:"cover"}}
         >
-            {/* <div className="overlay rounded-t-xl absolute top-0 w-full h-full  bg-[#1818189f] hidden group-hover:flex  transition-all duration-500 justify-center  items-center">
-                <div className="px-4">
-                    <SocialIcon url={instaUrl} />
-                </div>
-                <div className="px-4">
-                    <SocialIcon url={youtubeUrl} />
-                </div>
-            </div> */}
 
         </div>
         <div className="text-black" >

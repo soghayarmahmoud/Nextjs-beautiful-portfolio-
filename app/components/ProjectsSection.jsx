@@ -10,7 +10,7 @@ const projectData = [
         id:1,
         title:"UI",
         description:"",
-        image:"/images/pro/pro1.PNG",
+        image:"/images/pro1.PNG",
 
         insta: "https://www.instagram.com/reel/DMV4ehKodP9/?igsh=aDJmb3lkcDR6dmR0",
         youtube: "https://www.youtube.com/@engalivfx/videos",
@@ -20,7 +20,7 @@ const projectData = [
         id:2,
         title:"Personal branding",
         description:"",
-        image:"/images/pro/pro3.PNG",
+        image:"/images/pro2.PNG",
 
         insta: "https://www.instagram.com/p/DHBPKYkqn-V/",
         youtube: "https://www.youtube.com/@engalivfx/videos",
@@ -29,7 +29,7 @@ const projectData = [
         id:3,
         title:"Color grading",
         description:"",
-        image:"/images/pro/pro3.PNG",
+        image:"/images/pro3.PNG",
 
         insta: "https://www.instagram.com/p/DJZnYozquwt/",
         youtube: "https://www.youtube.com/@engalivfx/videos",
@@ -38,7 +38,7 @@ const projectData = [
         id:4,
         title:"3D",
         description:"",
-        image:"/images/pro/pro4.PNG",
+        image:"/images/pro4.PNG",
 
         insta: "https://www.instagram.com/reel/DK3D11qKY9c/?igsh=ZzBsYmM2bThiYjdk",
         youtube: "https://www.youtube.com/@engalivfx/videos",
@@ -47,7 +47,7 @@ const projectData = [
         id:5,
         title:"Motion Graphic",
         description:"",
-        image:"/images/pro/pro5.PNG",
+        image:"/images/pro5.PNG",
 
         insta: "https://www.instagram.com/reel/DF3Jwc9qM_i/?igsh=MWEwM3dnaW1hdTA5bw%3D%3D",
         youtube: "https://www.youtube.com/@engalivfx/videos",
