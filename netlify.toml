@@ -1,0 +1,12 @@
+[build]
+  command = "npm run build"
+  publish = ".next"
+
+[[plugins]]
+  package = "@netlify/plugin-nextjs"
+
+[build.environment]
+  NODE_VERSION = "20.11.1"
+  NEXT_TELEMETRY_DISABLED = "1"
+  NODE_ENV = "production"
+  CI = "true"
