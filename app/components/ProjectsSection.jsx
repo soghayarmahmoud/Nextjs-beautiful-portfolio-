@@ -34,7 +34,7 @@ const projectData = [
         insta: "https://www.instagram.com/p/DJZnYozquwt/",
         youtube: "https://www.youtube.com/@engalivfx/videos",
     },    
-        {
+    {
         id:4,
         title:"3D",
         description:"",
@@ -43,11 +43,12 @@ const projectData = [
         insta: "https://www.instagram.com/reel/DK3D11qKY9c/?igsh=ZzBsYmM2bThiYjdk",
         youtube: "https://www.youtube.com/@engalivfx/videos",
     },  
-        {
+    {
         id:5,
         title:"Motion Graphic",
         description:"",
         image:"/images/pro/pro5.PNG",
+
         insta: "https://www.instagram.com/reel/DF3Jwc9qM_i/?igsh=MWEwM3dnaW1hdTA5bw%3D%3D",
         youtube: "https://www.youtube.com/@engalivfx/videos",
     },  
