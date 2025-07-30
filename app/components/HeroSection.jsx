@@ -23,8 +23,6 @@ const HeroSection = ()=> {
                                     // Same substring at the start will only be typed out once, initially
                                     'Ali Abdelhameed',
                                     1000, // wait 1s before replacing "Mice" with "Hamsters"
-                                    'Civil Engineer',
-                                    1000,
                                     'Video Editor',
                                     1000,
                                     'Content Creator',
@@ -42,7 +40,7 @@ const HeroSection = ()=> {
                         
                     </p>
                 <div className='px-14 '>
-                    <button className='px-6 py-3.5 sm:w-fit w-full rounded-full mr-4 transition-colors bg-[#333] hover:bg-[#444] hover:cursor-pointer text-white ' onClick={()=> window.open('https://wa.me/201095054714','_blanc')}>Hire Me</button>
+                    <button className='px-6 py-3.5 sm:w-fit w-full rounded-full mr-4 transition-colors bg-green-500 hover:bg-green-400 hover:cursor-pointer text-black font-bold ' onClick={()=> window.open('https://wa.me/201095054714','_blanc')}>WhatsApp</button>
                     <button className='px-6 py-3 sm:w-fit w-full rounded-full mr-4 transition-colors hover:bg-[#444] hover:text-white hover:cursor-pointer text-black border border-solid border-black mt-3 ' onClick={()=> window.open('#projects','_self')}>Show Projects</button>
                 </div>
 
@@ -50,14 +48,14 @@ const HeroSection = ()=> {
 
 
                 <div className='col-span-5 mt-10 lg:mt-0 place-self-center'>
-                    <div className='rounded-full bg-blue-500  w-[350px] h-[350px] relative lg:w-[400px] lg:h-[400px] sm:w-[250px] sm:h-[250px]'>
+                    <div className='rounded-full bg-blue-500  w-[320px] h-[320px] relative lg:w-[320px] lg:h-[320px] sm:w-[320px] sm:h-[320px]'>
 
                     <Image
                     className='rounded-full absolute transform -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2'
-                    src="/images/p1.png"
+                    src="/images/l.jpg"
                     alt='profile image'
                     width={300}
-                    height={500}
+                    height={300}
                     />
                     </div>
 

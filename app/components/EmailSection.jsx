@@ -2,7 +2,7 @@
 
 import React , {useState} from 'react'
 import InstagramIcon from "../../public/instagram-brands-solid-full.svg"
-import FacebookIcon from "../../public/square-facebook-brands-solid-full.svg"
+import WhatsAppIcon from "../../public/whats.svg"
 import YoutubeIcon from "../../public/youtube-brands-solid-full.svg"
 import Link from 'next/link'
 import Image from 'next/image'
@@ -77,6 +77,9 @@ const handleSubmit = async (e)=>{
 
                 <Link href={"https://youtube.com/@engalivfx?si=Pte6CDyFvVH4MUiQ"} className='max-w-16'>
                     <Image src={YoutubeIcon} alt='Youtube Link'/>
+                </Link>
+                <Link href={"https://wa.me/201095054714"} className='max-w-16'>
+                    <Image src={WhatsAppIcon} alt='Youtube Link'/>
                 </Link>
             </div>
         </div>

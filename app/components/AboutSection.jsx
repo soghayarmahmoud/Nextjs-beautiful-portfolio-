@@ -19,7 +19,6 @@ const TAB_DATA= [
             <li key={"Audio"}>Audio Editiing</li>
             <li key={"Sound"}>Sound Design</li>
             <li key={"Adobe"}>Adobe Premiere Pro</li>
-            <li key={"Davinci"}>Davinci Resolve "Color Grading, Editing"</li>
             <li key={"AutoCAD"}>AutoCAD</li>
             <li key={"Structure"}>Structure Analysis & Design</li>
             <li key={"excel"}>Excel</li>
