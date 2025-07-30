@@ -48,7 +48,6 @@ const projectData = [
         title:"Motion Graphic",
         description:"",
         image:"/images/pro/pro5.PNG",
-
         insta: "https://www.instagram.com/reel/DF3Jwc9qM_i/?igsh=MWEwM3dnaW1hdTA5bw%3D%3D",
         youtube: "https://www.youtube.com/@engalivfx/videos",
     },  
