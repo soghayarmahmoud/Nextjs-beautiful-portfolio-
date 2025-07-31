@@ -13,7 +13,6 @@ const projectData = [
         image:"/images/pro1.PNG",
 
         insta: "https://www.instagram.com/reel/DMV4ehKodP9/?igsh=aDJmb3lkcDR6dmR0",
-        youtube: "https://www.youtube.com/@engalivfx/videos",
     }, 
 
     {
@@ -23,7 +22,6 @@ const projectData = [
         image:"/images/pro2.PNG",
 
         insta: "https://www.instagram.com/p/DHBPKYkqn-V/",
-        youtube: "https://www.youtube.com/@engalivfx/videos",
     },
     {
         id:3,
@@ -41,7 +39,6 @@ const projectData = [
         image:"/images/pro4.PNG",
 
         insta: "https://www.instagram.com/reel/DK3D11qKY9c/?igsh=ZzBsYmM2bThiYjdk",
-        youtube: "https://www.youtube.com/@engalivfx/videos",
     },  
     {
         id:5,
@@ -50,7 +47,6 @@ const projectData = [
         image:"/images/pro5.PNG",
 
         insta: "https://www.instagram.com/reel/DF3Jwc9qM_i/?igsh=MWEwM3dnaW1hdTA5bw%3D%3D",
-        youtube: "https://www.youtube.com/@engalivfx/videos",
     },  
     
  

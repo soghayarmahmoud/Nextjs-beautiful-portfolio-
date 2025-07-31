@@ -8,7 +8,7 @@ const Component = <SocialIcon url="https://youtube.com" />
 const Component2 = <SocialIcon url="https://instagram.com" />
 
 
-const ProjectCard = ({imgUrl, title, description,instaUrl, youtubeUrl})=>{
+const ProjectCard = ({imgUrl, title, description,instaUrl})=>{
 
     const handleCardClick = () => {
     if (instaUrl) {
