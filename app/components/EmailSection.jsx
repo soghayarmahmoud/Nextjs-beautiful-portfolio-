@@ -63,13 +63,11 @@ const handleSubmit = async (e)=>{
 
             
         <div>
-            <h5 className='text-xl font-bold text-black  text-center my-2'>Let's Connect</h5>
-            <p className='text-[#444] my-4 max-w-md mx-4'>
-                I'm currently looking for new opportunities, my inbox is
-                always open. Whether you have a question or just want to say "Hi",
-                I'll try my best to get back to you!
+            <h5 className='text-5xl font-bold text-black  text-center my-2'>دعنا نتواصل</h5>
+            <p className='text-[#444] my-4 max-w-md mx-4 text-3xl' style={{direction:"rtl"}}>
+                خلينا نحول فكرتك لفيديو يزوّد من مشاهداتك وارباحك 
             </p>
-            <div className='socials flex flex-row gap-2 '>
+            <div className='socials flex flex-row gap-2 place-content-center ' style={{direction:"rtl"}}>
                 <Link href={"https://www.instagram.com/engali.vfx?igsh=MTdsOTY2OHM5eDY2ZQ=="} className='max-w-16'>
                     <Image src={InstagramIcon} alt='Instagram Link'/>
                 </Link>
