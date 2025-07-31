@@ -34,7 +34,7 @@ const HeroSection = ()=> {
                                     repeat={Infinity}
                                 />
                          </h1>
-                    <p className='text-gray-400   my-8 px-10 text-base  sm:text-lg lg:text-xl' dir='rtl'>
+                    <p className='text-gray-400   my-8 px-10 text-base  sm:text-lg lg:text-xl' style={{direction:"rtl"}}>
                         أنا علي عبدالحميد، مونتير محترف وصانع محتوى متخصص في Reels تعليمية وإبداعية. بخبرة عملية ومعرفة دقيقة بتفاصيل المونتاج،
 هدفي دائما اخلي العملاء يقدمه محتوى جديد — سريع، مفيد، ويشد الانتباه من أول ثانية.
 كمان بساعد المونتيرين الطموحين إنهم يطوّروا مستواهم ويتعلموا تريكات واحترافية في برامج المونتاج.

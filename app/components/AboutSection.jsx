@@ -90,7 +90,7 @@ return(
             
             <div className="mt-4 md:mt-0 text-left flex flex-col h-full animate-fade-in-slide-up">
                 <h2 className="text-4xl font-bold  my-4 text-center text-blue-500">About Me</h2>
-                <p className="text-[#555]  text-base" dir="rtl">
+                <p className="text-[#555]  text-base" style={{direction:"rtl"}}>
                 بساعد صناع المحتوى والعلامات التجارية على تحويل أفكارهم لفيديوهات جذابة تنجح في جذب الانتباه وتوصيل الرسالة.
                 بمزج بين الخبرة، السرعة، والإبداع علشان كل فيديو يطلع بتجربة بصرية فريدة تستحق المشاركة 
                </p>
