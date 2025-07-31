@@ -30,7 +30,6 @@ const projectData = [
         image:"/images/pro3.PNG",
 
         insta: "https://www.instagram.com/p/DJZnYozquwt/",
-        youtube: "https://www.youtube.com/@engalivfx/videos",
     },    
     {
         id:4,
