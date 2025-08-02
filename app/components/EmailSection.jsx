@@ -150,7 +150,34 @@ const EmailSection = () => {
 
     return (
         <section id='contact' className='grid md:grid-cols-2 my-11 md:my-12 py-24 gap-4  sm:grid-cols-1 relative'>
-            {/* ... other JSX ... */}
+            <AnimatedSection
+            initialClass="opacity-0 -translate-x-16 transition-all duration-1000"
+            animateClass="opacity-100 translate-x-0"
+             threshold={0.5}
+
+            >
+
+            
+        <div>
+            <h5 className='text-5xl font-bold text-black  text-center my-2'>دعنا نتواصل</h5>
+            <p className='text-[#444] my-4 max-w-md mx-4 text-3xl' style={{direction:"rtl"}}>
+                خلينا نحول فكرتك لفيديو يزوّد من مشاهداتك وارباحك 
+            </p>
+            <div className='socials flex flex-row gap-2 place-content-center ' style={{direction:"rtl"}}>
+                <Link href={"https://www.instagram.com/engali.vfx?igsh=MTdsOTY2OHM5eDY2ZQ=="} className='max-w-16'>
+                    <Image src={InstagramIcon} alt='Instagram Link'/>
+                </Link>
+
+
+                <Link href={"https://youtube.com/@engalivfx?si=Pte6CDyFvVH4MUiQ"} className='max-w-16'>
+                    <Image src={YoutubeIcon} alt='Youtube Link'/>
+                </Link>
+                <Link href={"https://wa.me/201095054714"} className='max-w-16'>
+                    <Image src={WhatsAppIcon} alt='Youtube Link'/>
+                </Link>
+            </div>
+        </div>
+</AnimatedSection>
             <div>
                 <form action="" className='flex flex-col gap-2' onSubmit={handleSubmit}>
                     <div>
