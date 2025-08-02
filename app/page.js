@@ -15,7 +15,6 @@ export default function Home() {
       <main className="flex flex-col min-h-screen bg-[#eee]  scroll-smooth">
           <Navbar/>
         <div className="container mx-auto px-12 py-4 scroll-smooth">
-
           <HeroSection/>
           <AboutSection/>
           <ProjectsSection/>
@@ -23,7 +22,5 @@ export default function Home() {
         </div>
           <Footer/>
       </main>
-      
-    
   );
 }
