@@ -1,11 +1,10 @@
-// "use client"
+"use client"
 
-// import React , {useState} from 'react'
-// import InstagramIcon from "../../public/instagram-brands-solid-full.svg"
-// import WhatsAppIcon from "../../public/whats.svg"
-// import YoutubeIcon from "../../public/youtube-brands-solid-full.svg"
-// import Link from 'next/link'
-// import Image from 'next/image'
+import InstagramIcon from "../../public/instagram-brands-solid-full.svg"
+import WhatsAppIcon from "../../public/whats.svg"
+import YoutubeIcon from "../../public/youtube-brands-solid-full.svg"
+import Link from 'next/link'
+import Image from 'next/image'
 
 // import AnimatedSection from './AnimatedSection'
 
