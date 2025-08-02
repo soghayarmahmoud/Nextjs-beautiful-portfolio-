@@ -9,7 +9,7 @@
     "lint": "next lint",
     "build:production": "next build",
     "build:preview": "next build --preview",
-    "custom-build-script": "react-scripts build"
+    "custom-build-script": "next build && echo 'Custom build script executed successfully!'"
   },
   "dependencies": {
     "20": "^3.1.9",
