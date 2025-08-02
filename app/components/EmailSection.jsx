@@ -150,12 +150,7 @@ const EmailSection = () => {
 
     return (
         <section id='contact' className='grid md:grid-cols-2 my-11 md:my-12 py-24 gap-4  sm:grid-cols-1 relative'>
-            <AnimatedSection
-            initialClass="opacity-0 -translate-x-16 transition-all duration-1000"
-            animateClass="opacity-100 translate-x-0"
-             threshold={0.5}
 
-            >
 
             
         <div>
@@ -177,7 +172,6 @@ const EmailSection = () => {
                 </Link>
             </div>
         </div>
-</AnimatedSection>
             <div>
                 <form action="" className='flex flex-col gap-2' onSubmit={handleSubmit}>
                     <div>
