@@ -2,5 +2,5 @@
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "buildCommand": "npm run custom-build-script",
   "installCommand": "pnpm install",
-  "outputDirectory": "dist"
+  "outputDirectory": "my-output-directory"
 }
