@@ -6,7 +6,9 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "build:production": "next build",
+    "build:preview": "next build --preview"
   },
   "dependencies": {
     "20": "^3.1.9",
